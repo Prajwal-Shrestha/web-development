@@ -1,0 +1,6 @@
+px-> 196th of an inch
+vw or vh-> (viewport width or height) according to the destop size for responsiveness
+em-> it multiply the number by exact value mean 
+when the font size is 18px and again the when we put font size 2em then the size will be 2*18 which is 36
+rem-> which means the same as em but in rem only root size is changed
+vmin and vmax-> vmax is that for desktop it use vw and in phone it use vh and vmin is that for destop it use vh and inphone it use vw it is used for complex scenerio
