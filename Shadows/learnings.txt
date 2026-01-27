@@ -1,0 +1,7 @@
+box-shadow:h-offset v-offset blur spread color inset;
+h-offset amd v-offset->determines the position of horizontal and vertical position
+blur-> larger the value the blurrer the shadow
+spread->expands and sprinks the shadow size
+color->defines the color of shadow
+inset->make the shadow inner
+text-shadow:h-offset v-offset blur  color ;
