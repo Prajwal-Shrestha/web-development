@@ -1,0 +1,10 @@
+overflow:scroll;
+it gives scroll button when the words are more bigger than box it doesnot remove the scroll button when it is fit also
+overflow:auto;
+it gives the scroll button when the words are more bigger then box and automatically  removes it also
+ white-space: nowrap;
+it doesnot give the word to go horizontal
+text-overflow: ellipsis;
+it makes the words which are more with ...
+overflow-x->it controls the horizontal controls
+overflow-y->it controls the vertical controls
