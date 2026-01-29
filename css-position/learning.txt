@@ -1,0 +1,10 @@
+            position: relative;
+it can be change from any where 
+position:static;
+it cannot be changed
+position:absolute;
+it find the nearest postion parent to show
+position:fixed;
+it is fixed in one position it cannot be changed the position
+position:sticky
+it is used when something need to be stick in the website like in navbar 
