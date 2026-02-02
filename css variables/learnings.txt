@@ -1,0 +1,12 @@
+:root{
+            --color:blue;
+            --seccolor:blueviolet;
+        }
+
+        It is used as the global variable it is used for all the elements
+         ul li:first-child{
+            --seccolor:rgb(185, 159, 210);
+            background-color: var(--seccolor);
+        }
+
+        in here we have used the local variable in which the color is defined in the element
